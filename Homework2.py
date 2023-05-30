@@ -14,3 +14,13 @@
 # else:
 #     print("Incorrect user_choice")
 
+# m = int(input("Введите колличество метров: "))
+# choice = int(input ("Введите 1 - mi, 2 - du, 3 -ya: "))
+# if choice == 1:
+#     print(m * 0.0006213)
+# elif choice == 2:
+#     print(m * 39.3701)
+# elif choice == 3:
+#     print(m * 1.09361)
+# else:
+#     print("Incorrect choice")
